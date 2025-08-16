@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # Strain Sensor Analog Circuit Research: Step-by-Step Roadmap
 
 ## 1. **Analog Circuit Exploration**
